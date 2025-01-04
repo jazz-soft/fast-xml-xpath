@@ -1,0 +1,26 @@
+{
+  "name": "fast-xml-xpath",
+  "version": "0.0.0",
+  "description": "coming soon",
+  "keywords": [
+  ],
+  "main": "fast-xml-xpath.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "jazz-soft (https://jazz-soft.net/)",
+  "type": "commonjs",
+  "dependencies": {
+    "fast-xml-parser": "^4.5.1",
+    "xx-path": "^0.0.0"
+  },
+  "devDependencies": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jazz-soft/fast-xml-xpath.git"
+  },
+  "homepage": "https://github.com/jazz-soft/fast-xml-xpath#readme",
+  "bugs": "https://github.com/jazz-soft/fast-xml-xpath/issues",
+  "license": "MIT"
+}
