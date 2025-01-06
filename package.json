@@ -3,6 +3,8 @@
   "version": "0.0.0",
   "description": "coming soon",
   "keywords": [
+    "xpath",
+    "xml"
   ],
   "main": "fast-xml-xpath.js",
   "scripts": {
@@ -15,6 +17,8 @@
     "xx-path": "^0.0.0"
   },
   "devDependencies": {
+    "mocha": "^11.0.1",
+    "nyc": "^17.1.0"
   },
   "repository": {
     "type": "git",
