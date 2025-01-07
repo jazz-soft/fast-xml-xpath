@@ -8,7 +8,8 @@
   ],
   "main": "fast-xml-xpath.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "nyc mocha",
+    "coverage": "nyc report --reporter=lcov"
   },
   "author": "jazz-soft (https://jazz-soft.net/)",
   "type": "commonjs",
